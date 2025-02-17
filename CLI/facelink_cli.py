@@ -3,7 +3,7 @@ import requests
 import urllib.request
 
 TESTING_MODE = True
-APITOKEN = '<YOUR API TOKEN>'  # Your API Token
+APITOKEN = '<sv8byATY/BCEFtTmCgJSgPJ/7Pqc72/OMUBqqmkzCRjM0i6GilCe9k1h4ZPtHzS4ANDv7AKzPXQ=>'  # Your API Token
 
 # Ask the user for the URL and output file name
 url = input("Enter the URL: ")
